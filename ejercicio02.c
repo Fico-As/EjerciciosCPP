@@ -1,3 +1,4 @@
+//Leer un valor y sacar su valor negativo sin multiplicar por -1
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

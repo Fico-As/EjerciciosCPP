@@ -1,3 +1,5 @@
+//Intercambiar los valores leidos por teclado de dos variables sin usar variables auxiliares.
+
 #include<stdio.h>
 int main(){
     int a, b;

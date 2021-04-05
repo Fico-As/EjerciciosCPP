@@ -1,3 +1,4 @@
+//Sumar dos valores leidos sin usar el signo mas
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

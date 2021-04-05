@@ -1,7 +1,6 @@
 //Hallar el MCD y el m.c.m. de dos numeros
 #include<stdio.h>
 #include<ncurses.h>
-
 void main(){
    int a,b,c,i,mcd,a1,b1;   
     printf("Introducir el valor A: ");
@@ -24,8 +23,7 @@ void main(){
         else
             i++;
     }    
-    printf("El minimo comun multiplo (MCM) es:%d \n",c);
-    
+    printf("El minimo comun multiplo (MCM) es:%d \n",c);    
     i=2;
     mcd=1;
     a=a1;

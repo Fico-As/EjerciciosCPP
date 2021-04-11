@@ -1,4 +1,4 @@
-/*101) Generar la siguiente Matriz caracol
+/*102) Generar la siguiente Matriz caracol
 Ej.:  Introduce la dimencion de la matriz: 5
     1   3   5   0   0   0
     0   8   10  12  0   0

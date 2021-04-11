@@ -1,4 +1,4 @@
-/*70) Dado un numero positivo N se desea saber si es capicuo
+/*72) Dado un numero positivo N se desea saber si es capicuo
 Ej.: (0/1!) + (1/2!) + (1/3!) + (2/4!) + (3/5!) + (5/6!) + (8/7!) = 0.784
 */
 #include<iostream>

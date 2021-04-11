@@ -1,4 +1,4 @@
-//Invertir un numero
+//53) Invertir un numero
 #include<iostream>
 #include<math.h>
 using namespace std;

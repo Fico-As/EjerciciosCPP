@@ -1,4 +1,4 @@
-//Dado un numero N entero positivo mostrar la cantidad de digitos iguales a cero que este contiene.
+//58) Dado un numero N entero positivo mostrar la cantidad de digitos iguales a cero que este contiene.
 //Introduce la cantidad de N:179832
 //
 #include<iostream>

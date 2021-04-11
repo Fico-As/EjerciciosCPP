@@ -1,4 +1,4 @@
-/*85)   Vectores 
+/*86)   Vectores 
 Ej.:  
 */
 #include<iostream>

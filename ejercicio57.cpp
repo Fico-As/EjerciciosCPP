@@ -1,4 +1,4 @@
-//Dado un numero N entero positivo contar el numero de digitos pares e impares que tiene
+//57) Dado un numero N entero positivo contar el numero de digitos pares e impares que tiene
 //Introduce la cantidad de N:179832
 //2 digitos son pares,  4 digitos son impares
 #include<iostream>

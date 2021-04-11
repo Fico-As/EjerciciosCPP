@@ -1,4 +1,4 @@
-/*96) Generar la siguiente Matriz 
+/*97) Generar la siguiente Matriz 
 Ej.:  Introduce la dimencion de la matriz: 5
 0       1       1       2       3
 5       8       13      21      34

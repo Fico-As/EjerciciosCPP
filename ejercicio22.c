@@ -1,4 +1,4 @@
-//Leer tres valores calcular T=-x-y+z
+//22) Leer tres valores calcular T=-x-y+z
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

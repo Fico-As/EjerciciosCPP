@@ -1,4 +1,4 @@
-//Dado cinco numeros v,w,x,y,z, hallar el menor
+//21) Dado cinco numeros v,w,x,y,z, hallar el menor
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

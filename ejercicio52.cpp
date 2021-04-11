@@ -1,4 +1,4 @@
-//Contar el numero de digitos
+//52) Contar el numero de digitos
 #include<iostream>
 #include<math.h>
 using namespace std;

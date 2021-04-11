@@ -1,4 +1,4 @@
-/*93) Llenar un vector de n valores, luego determinar que valores son punto silla.
+/*94) Llenar un vector de n valores, luego determinar que valores son punto silla.
 un valor es punto silla cuando se encuentra en medio de dos valores mayores a este.
 Ej.:  La salida es:
 2, 4, 7, 4, 5, 7, 1 

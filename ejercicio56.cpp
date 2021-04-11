@@ -1,4 +1,4 @@
-//Mostrar lo digitos de un nu,ero comenzando por la derecha
+//56) Mostrar lo digitos de un nu,ero comenzando por la derecha
 #include<iostream>
 #include<math.h>
 using namespace std;

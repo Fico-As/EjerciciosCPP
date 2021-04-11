@@ -1,4 +1,4 @@
-//Generar y Hallar la suma de los N primereos terminos
+//48) Generar y Hallar la suma de los N primereos terminos
 //S= (sen(1*3)^1)/(1*3^1)) + (sen(2*3)^2)/(3*3^3)) + (sen(3*3)^3)/(5*3^5)) + (sen(4*3)^4)/(7*3^7)) = 0.04807
 #include<iostream>
 #include<math.h>

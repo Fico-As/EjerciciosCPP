@@ -1,4 +1,4 @@
-/*62) Introducir un numero entero positivo N, con los digitos diferentes entre si, se pide
+/*63) Introducir un numero entero positivo N, con los digitos diferentes entre si, se pide
 determinar el menor digito que este contiene y la posicion que este ocupa.
 Contando de derecha a Izquierda
 Ej.: Introduce la cantidad de N:1234567

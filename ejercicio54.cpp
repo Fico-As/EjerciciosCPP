@@ -1,4 +1,4 @@
-//Comprueba si un numero es capicuo
+//54) Comprueba si un numero es capicuo
 #include<iostream>
 #include<math.h>
 using namespace std;

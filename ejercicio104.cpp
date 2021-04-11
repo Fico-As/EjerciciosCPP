@@ -1,4 +1,4 @@
-/*103) Generar la siguiente Matriz pascal
+/*104) Generar la siguiente Matriz pascal
 Ej.:  Introduce la dimencion de la matriz: 5
 */
 #include<iostream>

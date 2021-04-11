@@ -1,4 +1,4 @@
-//Ordenar cuales el mayor, menor y central 
+//06)Introducir tres valores y ordenar para saber cuales el mayor, menor y central 
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

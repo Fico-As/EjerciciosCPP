@@ -1,4 +1,4 @@
-//Suma de N numeros naturales
+//04) Suma de N numeros naturales
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

@@ -1,4 +1,4 @@
-/*78) Verificar si un numero X es curioso, un numero es curioso cuando se repite al final de su producto
+/*80) Verificar si un numero X es curioso, un numero es curioso cuando se repite al final de su producto
 Ej.: Introduce la cantidad de N:4
 Introduce el valor de X:111
 111 NO es numero CURIOSO

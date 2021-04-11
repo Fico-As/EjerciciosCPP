@@ -1,4 +1,4 @@
-//Mostrar el ultimo digito de los valores introducidos
+//05) Mostrar el ultimo digito de los valores introducidos
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

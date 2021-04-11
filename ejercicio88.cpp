@@ -1,4 +1,4 @@
-/*89)  introducir valores en un vector y hallar los 2 numeros mayores y los dos numeros menores del
+/*88)  introducir valores en un vector y hallar los 2 numeros mayores y los dos numeros menores del
 vector ademas de sacar su promedio
 Ej.:  Los valores 
 2, 4, 78, 2, 3, 8, 0, 4, 1, 

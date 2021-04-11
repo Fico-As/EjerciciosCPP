@@ -1,4 +1,4 @@
-/*62) Dado un numero entero N positivo de mas de 6 digitos construir otros dos 
+/*65) Dado un numero entero N positivo de mas de 6 digitos construir otros dos 
 numeros A y B donde A este formado por los digitos pares de N y B esta formado por 
 los digitos impares de N.
 Ej.: Introduce la cantidad de R:345123

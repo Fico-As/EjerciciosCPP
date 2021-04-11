@@ -1,4 +1,4 @@
-//Verifica si un numero es primo o no 
+//51) Verifica si un numero es primo o no 
 #include<iostream>
 #include<math.h>
 using namespace std;

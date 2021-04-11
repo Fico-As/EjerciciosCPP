@@ -1,4 +1,4 @@
-//Intercambiar los valores leidos por teclado de dos variables sin usar variables auxiliares.
+//01) Intercambiar los valores leidos por teclado de dos variables sin usar variables auxiliares.
 
 #include<stdio.h>
 int main(){

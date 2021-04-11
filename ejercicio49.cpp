@@ -1,4 +1,4 @@
-//Generar y Hallar la suma de los N primereos terminos
+//49) Generar y Hallar la suma de los N primereos terminos
 //S= (2/3) - (3/5) + (5/7) - (7/11) + (11/13) - (13/17) = 0.226
 #include<iostream>
 #include<math.h>

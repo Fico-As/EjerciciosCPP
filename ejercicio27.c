@@ -1,4 +1,4 @@
-//Mostrar el dia siguiente 
+//27) Mostrar el dia siguiente 
 #include<stdio.h>
 #include<ncurses.h>
 

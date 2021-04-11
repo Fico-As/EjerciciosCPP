@@ -1,4 +1,4 @@
-//Hallar el MCD y el m.c.m. de dos numeros
+//28) Hallar el MCD y el m.c.m. de dos numeros
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

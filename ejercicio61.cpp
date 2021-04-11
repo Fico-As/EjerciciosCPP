@@ -1,4 +1,4 @@
-/*61)Dado un numero entero positivo N, se pide 
+/*61) Dado un numero entero positivo N, se pide 
 a)cuantos de sus digitos son pares
 b)cuantos de sus digitos son multiplos de tres
 c)La suma de todos los digitos 

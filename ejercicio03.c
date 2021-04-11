@@ -1,4 +1,4 @@
-//Sumar dos valores leidos sin usar el signo mas
+//03) Sumar dos valores leidos por teclado, sin usar el signo mas
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

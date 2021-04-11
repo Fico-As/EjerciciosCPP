@@ -1,4 +1,4 @@
-//Deducir el numero de dias de un mes
+//23) Deducir el numero de dias de un mes
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

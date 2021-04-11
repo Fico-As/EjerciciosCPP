@@ -1,4 +1,4 @@
-//Generar y Hallar la suma de los N primereos terminos
+//43) Generar y Hallar la suma de los N primereos terminos
 //S= 1! + 4! + 14! + 58! = 
 #include<iostream>
 using namespace std;

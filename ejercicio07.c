@@ -1,4 +1,4 @@
-//Dado dos numeros A, B, con parte decimal sumar las partes decimales.
+//07) Dado dos numeros A, B, con parte decimal sumar las partes decimales.
 #include<stdio.h>
 #include<ncurses.h>
 #include<math.h>

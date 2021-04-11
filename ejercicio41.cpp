@@ -1,4 +1,4 @@
-//generar y sumar para N terminos
+//41) Generar y sumar para N terminos
 //S= 0+1+1+2+3+5+8+13+....
 #include<iostream>
 using namespace std;

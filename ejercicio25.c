@@ -1,4 +1,4 @@
-//Resolver la ecuacion de binomio perfecto Ax2+Bx+C=0
+//25) Resolver la ecuacion de binomio perfecto Ax2+Bx+C=0
 #include<stdio.h>
 #include<math.h>
 #include<ncurses.h>

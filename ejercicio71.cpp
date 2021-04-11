@@ -1,4 +1,4 @@
-/*70) hallar la sumatoria de la siguiente serie
+/*71) hallar la sumatoria de la siguiente serie
 Ej.: (0/1!) + (1/2!) + (1/3!) + (2/4!) + (3/5!) + (5/6!) + (8/7!) = 0.784
 */
 #include<iostream>

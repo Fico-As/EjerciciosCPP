@@ -1,4 +1,4 @@
-//Generar y Hallar la suma de los N primereos terminos
+//47) Generar y Hallar la suma de los N primereos terminos
 //S= 1 + ((2* ln3^1)/1!) - ((2* ln3^2)/2!) + ((2* ln3^3)/3!) - ((2* ln3^4)/4!) + ((2* ln3^5)/5!) - ((2* ln3^6)/6!) + ((2* ln3^7)/7!) - ((2* ln3^8)/8!) = 9
 #include<iostream>
 #include<math.h>

@@ -1,4 +1,4 @@
-/*62) Leer un numero real positivo R,luego intercambiar el primer 
+/*64) Leer un numero real positivo R,luego intercambiar el primer 
 digito de la parte entera con el ultimo digito de la parte decimal
 Ej.: 
 */

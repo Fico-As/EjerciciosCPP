@@ -1,4 +1,4 @@
-//Verificar si un triangulo es equilatero, isoceles, escaleno.
+//24) Verificar si un triangulo es equilatero, isoceles, escaleno.
 #include<stdio.h>
 #include<ncurses.h>
 void main(){

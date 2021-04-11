@@ -1,4 +1,4 @@
-//Dado un numero natural n mostrar por pantalla su digito minimo y maximo.
+//55) Dado un numero natural n mostrar por pantalla su digito minimo y maximo.
 #include<iostream>
 #include<math.h>
 using namespace std;

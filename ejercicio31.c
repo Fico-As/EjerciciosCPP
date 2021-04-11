@@ -1,4 +1,4 @@
-//Generar la siguiente serie para n terminos
+//31) Generar la siguiente serie para n terminos
 //0,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,1,....
 #include<stdio.h>
 #include<ncurses.h>

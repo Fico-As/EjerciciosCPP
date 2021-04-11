@@ -1,4 +1,4 @@
-//Determinar cual numero decimal en mayor
+//26) Determinar cual numero decimal en mayor
 #include<stdio.h>
 //#include<math.h>
 #include<ncurses.h>

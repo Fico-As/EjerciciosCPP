@@ -1,4 +1,4 @@
-/*89) Dado un vector A de n elementos ordenados se pide insertar un elemento K en la posicion 
+/*90) Dado un vector A de n elementos ordenados se pide insertar un elemento K en la posicion 
 que le corresponde.
 Ej.:  Los valores 
 34, 7, 9, 2, 4, 65, 34, 

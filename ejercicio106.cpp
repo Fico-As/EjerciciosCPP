@@ -1,4 +1,4 @@
-/*105) Dado un Matriz A y B realizar losiguiente:
+/*106) Dado un Matriz A y B realizar losiguiente:
 suma de matrices.
 resta de matrices.
 multiplicacion de matrices.

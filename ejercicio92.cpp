@@ -1,4 +1,4 @@
-/*91) Dado un Valor X mayor a 10000 extraer lo digitos impares y almacenarlos en un vector 
+/*92) Dado un Valor X mayor a 10000 extraer lo digitos impares y almacenarlos en un vector 
 luego mostrar los digitos del vector.
 Ej.:  Introduce un numero mayor a 10000: 567890
 La salida es:
